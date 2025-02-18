@@ -1,4 +1,4 @@
-bash
+
 
 ClinicalInformatics/Assignment1/
 ├── README.md
