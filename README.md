@@ -1,6 +1,6 @@
 
 
-ClinicalInformatics/Assignment1/
+BINF-5507/Assignment1/
 ├── README.md
 ├── Scripts/          # For Python files
 ├── Data/             # For the dataset
