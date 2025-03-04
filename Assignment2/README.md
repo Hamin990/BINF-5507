@@ -11,18 +11,24 @@ This project is part of Assignment 2 for BIN-5505. The objective is to develop, 
 ### instructions
 
 ## How to run this script
-### 1 clone the repository
+
+1. Clone this repository.
+2. Install required libraries using:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+   (If needed, include a `requirements.txt` file with pandas, scikit-learn, seaborn, matplotlib, etc.)
+
+3. Open `main.ipynb` in Jupyter Notebook or VS Code and run the cells.
 
 git clone https://github.com/Hamin990/BINF-5507.git
 
+## Models 
 
-## library requirements
-
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-jupyter
+- Regression: Linear Regression, ElasticNet with hyperparameter tuning.
+- Classification: Logistic Regression, k-NN with hyperparameter tuning.
+- Evaluation metrics: R², RMSE, Accuracy, F1-score, AUROC, AUPRC.
+- Visualizations: Heatmaps for hyperparameter tuning, AUROC and AUPRC curves.
 
 
